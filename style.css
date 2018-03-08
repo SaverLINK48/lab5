@@ -3,3 +3,37 @@ body{
 	background-size:1600px 800px;
 	background-repeat: no-repeat;
 }
+
+table{
+  margin: auto;
+  border-collapse: collapse;
+}
+
+header{
+    background-color: green;
+    color:black; 
+    text-align: center;
+	margin: 5% 38% 7% 38%;
+}
+
+h1{
+	font-family:'castellar';
+	color: rgb(95, 58, 42);
+	text-align: center;
+}
+
+.mercury{
+    background-color: rgb(191, 58, 100);
+}
+
+.earth{
+    background-color: rgb(80, 154, 168);
+}
+
+.jupiter{
+    background-color: rgb(191, 67, 42);
+}
+
+.neptune{
+    background-color: rgb(80, 154, 48);
+}
